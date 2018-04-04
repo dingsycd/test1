@@ -1,5 +1,9 @@
 /**
- * 没想明白，应该和jvm有关
+ * 参数传递时，如果参数是基本数据类型，传递的是基本类型值的拷贝。
+ * 如果传递的是引用类型，传递的是该变量引用的对象在堆中的地址值。
+ * JVM的内存管理
+ *
+ * 讨论网站  https://www.zhihu.com/question/31203609
  */
 public class Demo1 {
 	public static void main(String[] args) {
