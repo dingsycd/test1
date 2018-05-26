@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../项目学习视频/Ajax和Jquery学习视频/源码和课件/源码和课件/itcast1018jquery/JSD1701_SE.iml" filepath="$PROJECT_DIR$/../../项目学习视频/Ajax和Jquery学习视频/源码和课件/源码和课件/itcast1018jquery/JSD1701_SE.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test1.iml" filepath="$PROJECT_DIR$/.idea/test1.iml" />
     </modules>
   </component>

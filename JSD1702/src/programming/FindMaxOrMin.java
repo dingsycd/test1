@@ -10,6 +10,7 @@ public class FindMaxOrMin {
 			arr[i]=(int) (Math.random()*100);
 			System.out.print(arr[i]+" ");
 		}
+		 System.out.println();
 		return arr;
 	}
 	public static  void find(int num){
