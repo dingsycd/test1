@@ -9,6 +9,7 @@ public class WW {
 		System.out.println("今天天气不错");
 		System.out.println("我很高兴");
 		System.out.print("cool");
+		System.out.println("1");
 		
 		
 	}
