@@ -10,6 +10,7 @@ public class WW {
 		System.out.println("我很高兴");
 		System.out.print("cool");
 		System.out.println("1");
+		System.out.println("2");
 		
 		
 	}
