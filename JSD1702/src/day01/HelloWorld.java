@@ -4,7 +4,8 @@ public class HelloWorld {//声明类
 
 	public static void main(String[] args) {
 		
-	System.out.println("HelloWorld");	
+	System.out.println("HelloWorld");
+	System.out.println("hello");
 	byte b=1;
 	char ch=2;
 	short sh =3;
