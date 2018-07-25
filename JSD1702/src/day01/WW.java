@@ -11,6 +11,7 @@ public class WW {
 		System.out.print("cool");
 		System.out.println("1");
 		System.out.println("2");
+		System.out.println("3");
 		
 		
 	}
