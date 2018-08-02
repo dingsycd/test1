@@ -22,6 +22,7 @@ public class WW {
 		System.out.println(2356);
 		System.out.println(2358);
 		System.out.println(033);
+		System.out.println(2322);
 		System.out.println(2325);
 		
 		
